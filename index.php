@@ -49,10 +49,10 @@ include 'code.php';
         <nav class="pt-3">
           <!-- Navbar -->
           <ul>
-            <li><a href="#">Introduzione</a></li>
-            <li><a href="#">Norme sulla privacy</a></li>
-            <li><a href="#">Termini di servizio</a></li>
-            <li><a href="#">Tecnologie</a></li>
+            <li><a href="https://policies.google.com/">Introduzione</a></li>
+            <li><a href="https://policies.google.com/privacy">Norme sulla privacy</a></li>
+            <li><a href="https://policies.google.com/terms">Termini di servizio</a></li>
+            <li><a href="https://policies.google.com/technologies">Tecnologie</a></li>
             <li><a href="#" class="active">Domande frequenti</a></li>
           </ul>
         </nav>
@@ -78,10 +78,10 @@ include 'code.php';
           <div>
             <!-- Footer Navbar -->
             <ul class="footer-text">
-              <li><a href="#" class="divider">Google</a></li>
-              <li><a href="#" class="divider">Tutto su Google</a></li>
-              <li><a href="#" class="divider">Privacy</a></li>
-              <li><a href="#">Termini</a></li>
+              <li><a href="https://www.google.com/" class="divider">Google</a></li>
+              <li><a href="https://about.google/" class="divider">Tutto su Google</a></li>
+              <li><a href="https://policies.google.com/privacy" class="divider">Privacy</a></li>
+              <li><a href="https://policies.google.com/terms">Termini</a></li>
             </ul>
           </div>
 
